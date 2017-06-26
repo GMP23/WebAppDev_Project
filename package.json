@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Henry Phelps",
+  "authors": "Henry Phelps, Garret Patten",
   "license": "",
   "dependencies": {
     "express": "^4.13.4",
